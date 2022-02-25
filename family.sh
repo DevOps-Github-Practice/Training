@@ -1,0 +1,10 @@
+echo "Father"
+echo "Mother"
+echo "Brother"
+echo "Nisha"
+echo "Kartik"
+echo "Atharv"
+echo " varsha"
+echo " Urvi"
+echo "updated"
+
